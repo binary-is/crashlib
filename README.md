@@ -1,4 +1,4 @@
-Crashlib 1.0.2
+Crashlib 1.0.3
 ==============
 
 Purpose
@@ -7,7 +7,7 @@ Crashlib provides linkable functions for crashing programs written in C or C++, 
 
 It serves no known purpose. To our knowledge it is not useful in any way.
 
-Four function are provided:
+Four functions are provided:
 
 1. Divide by zero: `crash_divbyzero()`
 
@@ -44,7 +44,8 @@ Installation
 
 Uninstallation
 --------------
-- make uninstall
+
+    make uninstall
 
 Version history
 ---------------
@@ -53,6 +54,8 @@ Version history
 * xxxx-xx-xx. Version 1.0.1: Can't remember. Probably nothing of any importance.
 
 * 2019-01-05. Version 1.0.2: License changed from GPL to MIT. Testapp created. PREFIX-support in Makefile. README updated.
+
+* 2020-02-18: Version 1.0.3: Typo and formatting error in README fixed.
 
 Authors
 -------
